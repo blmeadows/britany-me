@@ -1,0 +1,8 @@
+# sbt specific
+console.devmode.log
+target/
+project/target/
+
+# IntelliJ IDEA stuff
+*.iml
+.idea/
