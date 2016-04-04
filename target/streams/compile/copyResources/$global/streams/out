@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/britanyleigh/Desktop/MySite/src/main/resources/logback.xml,/Users/britanyleigh/Desktop/MySite/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/britanyleigh/Desktop/MySite/src/main/resources/props,/Users/britanyleigh/Desktop/MySite/target/scala-2.11/classes/props)[0m
+[0m[[0mdebug[0m] [0m	(/Users/britanyleigh/Desktop/MySite/src/main/resources/props/default.props,/Users/britanyleigh/Desktop/MySite/target/scala-2.11/classes/props/default.props)[0m
