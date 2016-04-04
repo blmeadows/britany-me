@@ -1,2 +1,4 @@
 ~jetty:start
 exit
+~jetty:start
+exit
