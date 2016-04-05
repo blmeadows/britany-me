@@ -11,6 +11,7 @@ a {
 header {
   float: left;
   background-color: mediumturquoise;
+  font-size: 1.1em;
   margin: 0;
   padding: 0;
   width: 100%;
