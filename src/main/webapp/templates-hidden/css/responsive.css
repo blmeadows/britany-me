@@ -1,0 +1,56 @@
+@media screen and (min-width: 720px) {
+
+  #name h1 {
+    float: left;
+    padding: 30px 20px 15px;
+  }
+
+  .menu {
+    float: right;
+    width: 40%;
+    height: 80px;
+  }
+
+  .menu ul {
+  	padding: 25px 0;
+  }
+
+  .menu ul li ul {
+  	padding: 0;
+  }
+
+  #profile-pic {
+    margin: 20px 50px 115px 0;
+    max-width: 180px;
+    float: left;
+  }
+
+  #main {
+  	margin: 0 10%;
+  }
+
+  p {
+  	margin-top: 30px;
+  }
+
+  #links {
+  	margin: 30px auto;
+  }
+
+  #experience {
+  	float: left;
+  	max-width: 50%;
+  	margin-top: 20px;
+  }
+
+  #selenium {
+  	float: right;
+  	max-width: 40%;
+  	margin-top: 15px;
+  }
+
+  #selenium-alt {
+  	margin: 0 0 0 60%;
+  }
+
+}
