@@ -16,11 +16,11 @@
   }
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 725px) {
 
   #name h1 {
     float: left;
-    padding: 30px 20px 15px;
+    padding: 23px 20px 23px;
   }
 
   .menu {
