@@ -172,3 +172,11 @@ footer a {
   text-decoration: underline;
   color: darkcyan;
 }
+
+footer p {
+  margin: 1em 0 0.5em;
+}
+
+footer p + p {
+  margin: 0 0 0.5em;
+}
