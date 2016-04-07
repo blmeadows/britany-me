@@ -144,6 +144,10 @@ img {
   max-width: 100%;
 }
 
+#resume {
+  max-width: 100%;
+}
+
 p {
   color: dimgray;
   font-size: 1.2em;

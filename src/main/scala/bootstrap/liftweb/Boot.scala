@@ -25,7 +25,7 @@ class Boot {
       Menu.i("Home") / "index", // the simple way to declare a menu
 
       Menu.i("About") / "about" submenus(
-        Menu("Experience") / "experience"
+        Menu("Resume") / "resume"
       ), //testing about menu
 
       Menu.i("Blog") / "blog" submenus(

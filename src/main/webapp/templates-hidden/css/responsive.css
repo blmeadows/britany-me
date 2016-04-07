@@ -1,3 +1,21 @@
+@media screen and (min-width: 360px) {
+  #resume {
+    height: 550px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  #resume {
+    height: 750px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  #resume {
+    height: 900px;
+  }
+}
+
 @media screen and (min-width: 720px) {
 
   #name h1 {
@@ -37,10 +55,8 @@
   	margin: 30px auto;
   }
 
-  #experience {
-  	float: left;
-  	max-width: 50%;
-  	margin-top: 20px;
+  #resume {
+    height: 950px;
   }
 
   #selenium {
@@ -53,4 +69,22 @@
   	margin: 0 0 0 60%;
   }
 
+}
+
+@media screen and (min-width: 840px) {
+  #resume {
+    height: 1050px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  #resume {
+    height: 1150px;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  #resume {
+    height: 1250px;
+  }
 }
