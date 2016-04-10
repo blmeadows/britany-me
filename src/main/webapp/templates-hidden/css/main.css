@@ -20,11 +20,11 @@ header {
 }
 
 #name h1 {
-  font-size: 1.85em;
+  font-size: 1.5em;
   font-weight: 400;
   text-align: center;
   color: #124242;
-  padding: 20px 0 10px;
+  padding: 20px 0 15px;
   margin: 0;
 }
 
@@ -35,7 +35,7 @@ header {
 }
 
 .menu ul {
-  font-size: 1em;
+  font-size: 0.75em;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -67,7 +67,7 @@ header {
   font-family: 'Lora', serif;
   max-width: 100%;
   margin: 0 5%;
-  padding: 10px 0 5%;
+  padding: 10px 0 25px;
 }
 
 h1, h2, h3, h4, p {
@@ -149,7 +149,7 @@ img {
 }
 
 #elsa {
-  padding-top: 10px;
+  padding: 10px 0 15px;
   width: 100%;
 }
 
