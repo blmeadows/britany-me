@@ -5,6 +5,11 @@
 }
 
 @media screen and (min-width: 480px) {
+
+  .menu ul li {
+    margin: 0 20px;
+  }
+
   #resume {
     height: 750px;
   }
@@ -16,35 +21,48 @@
   }
 }
 
-@media screen and (min-width: 725px) {
+@media screen and (min-width: 750px) {
+  #resume {
+    height: 950px;
+  }
+}
+
+@media screen and (min-width: 840px) {
+  #resume {
+    height: 1050px;
+  }
+}
+
+@media screen and (min-width: 950px) {
 
   #name h1 {
     float: left;
-    padding: 23px 20px 23px;
+    font-size: 1.45em;
+    padding: 13px 0 13px 10%;
   }
 
   .menu {
     float: right;
-    width: 40%;
-    height: 80px;
+    padding-right: 8%;
+    height: 30px;
   }
 
   .menu ul {
-  	padding: 25px 0;
+  	padding: 5px 0;
   }
 
-  .menu ul li ul {
-  	padding: 0;
+  .content {
+    margin: 0 5%;
+  }
+
+  #main {
+    margin: 50px 5% 0 5%;
   }
 
   #profile-pic {
     margin: 20px 50px 115px 0;
     max-width: 180px;
     float: left;
-  }
-
-  #main {
-  	margin: 0 10%;
   }
 
   p {
@@ -56,7 +74,7 @@
   }
 
   #resume {
-    height: 950px;
+    height: 1250px;
   }
 
   #selenium {
@@ -71,19 +89,8 @@
 
 }
 
-@media screen and (min-width: 840px) {
-  #resume {
-    height: 1050px;
-  }
-}
-
-@media screen and (min-width: 960px) {
-  #resume {
-    height: 1150px;
-  }
-}
-
 @media screen and (min-width: 1080px) {
+
   #resume {
     height: 1250px;
   }

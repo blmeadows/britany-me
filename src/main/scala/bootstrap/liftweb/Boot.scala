@@ -22,14 +22,14 @@ class Boot {
 
     // Build SiteMap
     val entries = List(
-      Menu.i("Home") / "index", // the simple way to declare a menu
+      Menu.i("HOME") / "index", // the simple way to declare a menu
 
-      Menu.i("About") / "about" submenus(
-        Menu("Resume") / "resume"
-      ), //testing about menu
+      Menu.i("ABOUT") / "about", 
+        
+      Menu.i("RESUME") / "resume", 
 
-      Menu.i("Blog") / "blog" submenus(
-         Menu("April") / "april"
+      Menu.i("BLOG") / "blog" submenus(
+         Menu("APRIL") / "april"
       ) // maybe I'll start a blog?
     )
 
